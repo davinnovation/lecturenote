@@ -1,0 +1,20 @@
+
+{
+    "author": "davinnovation",
+    "links": {
+        "sidebar": {
+            "My Blog": "davinnovation.github.io"
+        }
+    },
+    "plugins" : 
+    [
+        "advanced-emoji",
+        "disqus",
+        "todo",
+        "emphasize",
+        "katex",
+        "mermaid-compat",
+        "chart",
+        "-search-pro"
+    ]
+}
