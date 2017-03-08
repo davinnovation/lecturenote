@@ -1,0 +1,25 @@
+{ 
+    "plugins" : 
+    [
+        "advanced-emoji",
+        "disqus",
+        "todo",
+        "emphasize",
+        "katex",
+        "mermaid-compat",
+        "chart",
+        "search-pro"
+    ],
+    "pluginsConfig": 
+    {
+        "sharing": {
+            "facebook": true
+        },
+        "disqus": {
+            "shortName": "xxxxxx"
+        },
+        "search-pro": {
+            "cutWordLib": "nodejieba"
+        }
+    }
+}
