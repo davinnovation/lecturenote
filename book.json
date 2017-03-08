@@ -15,9 +15,6 @@
         "sharing": {
             "facebook": true
         },
-        "disqus": {
-            "shortName": "xxxxxx"
-        },
         "search-pro": {
             "cutWordLib": "nodejieba"
         }
